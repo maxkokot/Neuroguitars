@@ -26,7 +26,7 @@ Run training by using src/train.py
 python train.py --model_config_path ../configs/model_config.yaml
 ```
 
-### Generate umages
+### Generate images
 
 Generate samples by using src/inference.py
 
