@@ -1,0 +1,15 @@
+# local package
+-e .
+
+# external requirements
+click
+Sphinx
+coverage
+awscli
+flake8
+matplotlib==1.21.3
+pyyaml==5.4.1
+python-dotenv>=0.5.1
+pytorch_lightning==1.7.0
+torch==1.13.1
+torchvision==0.14.1

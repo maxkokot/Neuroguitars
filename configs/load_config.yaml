@@ -1,0 +1,6 @@
+data_path: ../data/raw
+queries: ['electric guitar', 'fender telecaster', 'fender telecaster', 'superstrat', 'gibson les paul',
+          'gibson sg', 'gibson flying v', 'gibson ES-335', 'schecter guitar', 'rickenbacker 325', 'rickenbacker 620',
+          'gibson explorer', 'электрогитара урал', 'электрогитара ЭЛГАВА', 'электрогитара ТОНИКА',
+          'chitarra elettrica', 'электрогитара', 'guitare électrique', 'elektrische Gitarre',
+          'gitara elektryczna', 'guitarra electrica', 'elektrisk gitar']

@@ -1,0 +1,8 @@
+data_dir: ../data/raw
+model_dir: ../models
+pic_dir: ../data/external
+batch_size: 16
+img_size: 224
+latent_dim: 128
+lr: 0.0002
+num_epochs: 100
